@@ -39,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 <!---LeetCode Topics End-->
