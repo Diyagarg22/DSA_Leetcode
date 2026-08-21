@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0283-move-zeroes](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
