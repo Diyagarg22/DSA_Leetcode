@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0075-sort-colors](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0283-move-zeroes](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -31,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0283-move-zeroes](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -53,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
