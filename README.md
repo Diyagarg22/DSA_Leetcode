@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0075-sort-colors](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0075-sort-colors/) | Medium |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0704-binary-search/) | Easy |
