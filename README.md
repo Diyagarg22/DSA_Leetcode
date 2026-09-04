@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Hash Table
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
