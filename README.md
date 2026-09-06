@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0055-jump-game](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0055-jump-game/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0528-random-pick-with-weight](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0528-random-pick-with-weight/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
