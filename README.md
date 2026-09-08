@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0189-rotate-array](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0189-rotate-array](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0189-rotate-array](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0528-random-pick-with-weight/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## String
