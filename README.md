@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
