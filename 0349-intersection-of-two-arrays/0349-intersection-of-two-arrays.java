@@ -1,44 +1,24 @@
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
-        // Sort both arrays
-        Arrays.sort(nums1);
-        Arrays.sort(nums2);
+        Set<Integer> s1=new HashSet <>();
+        Set<Integer> s2=new HashSet <>();
+        for(int ele:nums1){
+            s1.add(ele);
+        }
+        for(int ele:nums2){
+            s2.add(ele);
+        }
 
-        // Initialize two pointers
-        int N = nums1.length;
-        int M = nums2.length;
-        int p1 = 0;
-        int p2 = 0;
+        int[] result=new int[s1.size()];
+        int k=0;
+        for(int ele:s1){
+            if(s2.contains(ele)){
+                result[k]=ele;
+                k+=1;
+            }
+        }
+
+       return Arrays.copyOfRange(result,0,k);
         
-        // Create set that stores integers appearing in both arrays
-        Set<Integer> intersection = new HashSet<>();
-
-        // Iterate the pointers from left to right
-        while (p1 < N && p2 < M) {
-            // Add a value to the set if values at both pointers equal
-            if (nums1[p1] == nums2[p2]) {
-                intersection.add(nums1[p1]);
-                p1++;
-                p2++;
-            }
-            // Otherwise, increment the pointer of the smaller integer
-            else if (nums1[p1] < nums2[p2]) {
-                p1++;
-            }
-            else {
-                p2++;
-            }
-        }
-
-        // Convert intersection to an array
-        int K = intersection.size();
-        int[] result = new int[K];
-        int curr = 0;
-        for (int x: intersection) {
-            result[curr++] = x;
-        }
-
-        //Return the result
-        return result;
     }
 }
