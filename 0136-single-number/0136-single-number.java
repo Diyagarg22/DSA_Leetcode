@@ -4,7 +4,8 @@ class Solution {
         int ans=0;
         for(int ele:nums){
             ans=ans^ele;
+
         }
-        return ans ;
+        return ans;
     }
 }
