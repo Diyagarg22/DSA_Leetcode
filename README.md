@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -152,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0048-rotate-image/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
