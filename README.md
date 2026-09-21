@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0704-binary-search](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
