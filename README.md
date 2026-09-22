@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0528-random-pick-with-weight](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0528-random-pick-with-weight/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0231-power-of-two/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/Diyagarg22/DSA_Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
